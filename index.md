@@ -12,3 +12,5 @@ Harry Potter and the Order of the Phoenix.
 
 > My mum always said things we lose have a way of coming back to us in the end.
 > If not always in the ways we expect.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luna_Lovegood_fanart_-_Cor-Sa.jpg/233px-Luna_Lovegood_fanart_-_Cor-Sa.jpg"/>
