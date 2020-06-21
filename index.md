@@ -9,3 +9,6 @@ Harry Potter and the Order of the Phoenix.
 * just a little bit goofy
 * deeply empathetic
 * can see thestrals
+
+> My mum always said things we lose have a way of coming back to us in the end.
+> If not always in the ways we expect.
